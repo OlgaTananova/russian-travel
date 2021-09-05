@@ -1,0 +1,27 @@
+
+.photo-grid {
+  display: flex;
+  max-width: 1184px;
+  width: 100%;
+  gap: 14px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 1183px) {
+  .photo-grid {
+    width: 91%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    width: 94%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .photo-grid {
+    width: 90%;
+  }
+}

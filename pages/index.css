@@ -1,0 +1,50 @@
+/*Глобальные стили*/
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/inter_web/inter.css);
+@import url(../blocks/page/page.css);
+
+/* Секция Header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+
+/* Секция Lead */
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/page/__lead/page__lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image-container/lead__image-container.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+
+/* Секция Content */
+@import url(../blocks/content/content.css);
+
+/* Секция Intro */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/content/__intro/content__intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+@import url(../blocks/intro/__list/intro__list.css);
+
+/* Секция Photo-grid */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/content/__photo-grid/content__photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_coastline.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_field.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_forest.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_icefield.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_meadow.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_peaks.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_sea_rocks.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountains.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_rocks.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_sign.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_train.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_clouds.css);
+
+

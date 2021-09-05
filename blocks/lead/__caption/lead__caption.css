@@ -1,0 +1,20 @@
+
+.lead__caption {
+  max-width: 154px;
+  font-size: 10px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .lead__caption {
+    margin-left: 16px;
+    margin-top: 4px;
+  }
+}
