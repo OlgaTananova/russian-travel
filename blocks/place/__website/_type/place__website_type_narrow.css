@@ -1,0 +1,23 @@
+
+.place__website_type_narrow {
+  margin: 22px 0 48px 0;
+}
+
+@media screen and (max-width: 840px) {
+  .place__website_type_narrow {
+    margin-top: 13px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__website_type_narrow {
+    margin-top: 0;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .place__website_type_narrow {
+    width: 90%;
+    margin: 32px auto 32px;
+  }
+}

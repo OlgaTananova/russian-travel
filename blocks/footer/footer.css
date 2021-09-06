@@ -1,27 +1,26 @@
 
-.header {
+.footer {
   width: 100%;
-  height: 52px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 @media screen and (max-width: 1024px) {
-  .header {
-    width: 91%;
+  .footer {
+    width: 90.5%;
   }
 }
 
 @media screen and (max-width: 768px) {
-  .header {
+  .footer {
     width: 94%;
   }
 }
 
-@media screen and (max-width: 425px) {
-  .header {
+@media screen and (max-width: 688px) {
+  .footer {
     width: 90%;
-    height: 14%;
+    flex-direction: column;
+    gap: 48px;
   }
 }

@@ -1,0 +1,23 @@
+
+.place__website_type_wide {
+  margin: 96px 0 48px 0;
+}
+
+@media screen and (max-width: 865px) {
+  .place__website_type_wide {
+    margin-top: 78px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__website_type_wide {
+    margin-top: 40px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .place__website_type_wide {
+    width: 90%;
+    margin: 32px auto 32px;
+  }
+}

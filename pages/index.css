@@ -47,4 +47,32 @@
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_train.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_clouds.css);
 
+/* Секция Places */
+@import url(../blocks/place/place.css);
+@import url(../blocks/content/__places/content__places.css);
+@import url(../blocks/places/places.css);
+@import url(../blocks/place/__column/_position/place__column_position_left.css);
+@import url(../blocks/place/__column/_position/place__column_position_right.css);
+@import url(../blocks/place/__column/place__column.css);
+@import url(../blocks/place/__title/place__title.css);
+@import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__website/place__website.css);
+@import url(../blocks/place/__website/_type/place__website_type_narrow.css);
+@import url(../blocks/place/__website/_type/place__website_type_wide.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
+@import url(../blocks/place/__link/place__link.css);
+@import url(../blocks/place/__paragraph/place__paragraph.css);
 
+/*Секция Cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/content/__cover/content__cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__link/cover__link.css);
+
+/* Секция Footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/page/__footer/page__footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer_copyright.css);
