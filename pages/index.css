@@ -38,14 +38,14 @@
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_field.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_forest.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_icefield.css);
-@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_meadow.css);
-@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_peaks.css);
-@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_sea_rocks.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain-meadow.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain-peaks.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain-sea-rocks.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountains.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_rocks.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_sign.css);
 @import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_train.css);
-@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain_clouds.css);
+@import url(../blocks/photo-grid/__item/_img/photo-grid__item_img_mountain-clouds.css);
 
 /* Секция Places */
 @import url(../blocks/place/place.css);
