@@ -5,4 +5,13 @@
   flex-direction: column;
   justify-content: end;
   gap: 12px;
+  grid-area: website;
+}
+
+@media screen and (max-width: 530px) {
+  .place__website {
+    width: 90%;
+    margin: 0 auto;
+    order: 2;
+  }
 }
