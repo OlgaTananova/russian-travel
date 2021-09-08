@@ -6,6 +6,10 @@
   padding: 0;
   margin: 0;
   text-decoration: underline;
-  cursor: pointer;
   color: white;
 }
+.place__link:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+

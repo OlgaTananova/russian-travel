@@ -2,10 +2,8 @@
 .photo-grid__item {
   width: 284px;
   height: 213px;
-  background-color: #2A2C2F;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  object-fit: contain;
+  object-position: center;
 }
 
 @media screen and (max-width: 1183px) {

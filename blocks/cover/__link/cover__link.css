@@ -3,8 +3,10 @@
   text-decoration: none;
   color: white;
   display: block;
+  z-index: 2;
 }
 
 .cover__link:hover {
   cursor: pointer;
+  opacity: .8;
 }

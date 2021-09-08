@@ -3,12 +3,11 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  padding: 20% 0;
+  padding: 245px 0;
   background-image: url(../../images/cover_train_station.jpg);
   background-color: #2A2C2F;
   background-position: center;
   background-size: cover;
-  gap: 32px;
   position: relative;
 }
 
@@ -27,7 +26,7 @@
 }
 
 .cover:hover::before {
-  opacity: 0.8;
+  opacity: .8;
   cursor: pointer;
 }
 
@@ -37,9 +36,14 @@
   }
 }
 
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 768px){
   .cover {
-    padding: 10% 0;
-    gap: 16px;
+    padding: 15.1% 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover {
+    padding: 7.3% 0;
   }
 }

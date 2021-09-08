@@ -1,33 +1,4 @@
 
 .places {
-  width: 83%;
-  display: flex;
-  flex-direction: column;
-  gap: 80px;
-  padding: 0;
-}
-
-@media screen and (max-width: 1070px) {
-  .places {
-    width: 91%;
-  }
-}
-
-@media screen and (max-width: 865px) {
-  .places {
-    width: 94%;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .places {
-    gap: 73px;
-  }
-}
-
-@media screen and (max-width: 530px) {
-  .places {
-    width: 100%;
-    gap: 50px;
-  }
+  width: 100%;
 }
