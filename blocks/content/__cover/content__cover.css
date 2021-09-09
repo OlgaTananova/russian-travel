@@ -1,16 +1,16 @@
 
-.content__cover-section {
+.content__cover {
   margin: 91px auto;
 }
 
 @media screen and (max-width: 768px) {
-  .content__cover-section {
+  .content__cover {
     margin: 88px auto;
   }
 }
 
 @media screen and (max-width: 530px) {
-  .content__cover-section {
+  .content__cover {
     margin: 65px auto;
   }
 }
