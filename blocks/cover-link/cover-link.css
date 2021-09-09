@@ -1,12 +1,11 @@
 
-.cover__link {
+.cover-link {
   text-decoration: none;
   color: white;
   display: block;
-  z-index: 2;
+  width: 100%;
 }
 
-.cover__link:hover {
+.cover-link:hover {
   cursor: pointer;
-  opacity: .8;
 }
